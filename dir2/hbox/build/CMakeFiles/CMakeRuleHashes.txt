@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+b6569a19a00ab9456b7fd31422c1c019 CMakeFiles/hello_autogen
+b6569a19a00ab9456b7fd31422c1c019 CMakeFiles/hello_autogen_timestamp_deps
+e344454c49bf08f3d831eb2f973ff063 hello_autogen/timestamp
